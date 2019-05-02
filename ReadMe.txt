@@ -17,7 +17,7 @@ optional arguments:
     <ident_max>          max identity values of multi hits or set by user 
 	<ident_min>          min identity values of multi hits or set by user 
 	<scale>              Zoom out scale
-	<svg_file>           out SVG file
+	<svg_file>           output SVG file
 
 #input CDS file in script:
 CDS file format(Tab split)
