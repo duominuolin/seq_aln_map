@@ -14,8 +14,8 @@ optional arguments:
 	<line_seq>           position , start and end of sequence (x,y,seq_start seq_end)
 	<rec>                idnetity and positon of blast hits on <scale> (ident,ref_start,ref_end,query_start,query_end,y1,y1,y2,y2)
 	<seqline>            ref seq length 
-    <ident_max>          max identity values of multi hits or set by self 
-	<ident_min>          min identity values of multi hits or set by self 
+    <ident_max>          max identity values of multi hits or set by user 
+	<ident_min>          min identity values of multi hits or set by user 
 	<scale>              Zoom out scale
 	<svg_file>           out SVG file
 
